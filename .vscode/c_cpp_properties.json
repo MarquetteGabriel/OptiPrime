@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "G:/Code/MinGW/**"
             ],
             "defines": [
                 "_DEBUG",
