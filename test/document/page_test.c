@@ -6,7 +6,7 @@
 #include <stddef.h>
 #include <setjmp.h>
 #include <unistd.h>
-#include "cmocka/include/cmocka.h"
+#include "cmocka\include\cmocka.h"
 
 #include "src/document/page.c"
 
